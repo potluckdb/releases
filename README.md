@@ -1,11 +1,11 @@
 # potluckdb releases
 
 potluckdb is local-first SQLite synchronized through plain object storage,
-with no server. Start with the [documentation](https://docs.potluckdb.dev).
+with no server. Start with the [documentation](https://docs.potluckdb.com).
 
 This repository is the GitHub channel of every potluckdb release: the
 binaries, their checksums, and the evidence that they work. The primary
-download host is `https://downloads.potluckdb.dev/releases`, which each
+download host is `https://downloads.potluckdb.com/releases`, which each
 release's manifest pins as its `download_base_url`; the bytes here are the
 same bytes, published a second time somewhere a release can be fetched
 with nothing but a browser.
